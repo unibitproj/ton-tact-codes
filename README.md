@@ -1,2 +1,6 @@
 # ton-tact-codes
 ton tact-lang codes
+
+## 0地址
+
+self.owner = address("0:0000000000000000000000000000000000000000000000000000000000000000");
