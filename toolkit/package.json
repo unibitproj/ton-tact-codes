@@ -1,0 +1,11 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ton/core": "^0.57.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.0.0"
+  }
+}
